@@ -23,7 +23,7 @@ Follow these steps to get your development environment running:
 
 ```bash
 # Clone the repository
-git clone https://github.com/reda-marzouk608/scrape-master
+git clone https://github.com/HichemJordan/Ai-LLM-Scraper.git
 cd scrape-master
 
 # It's recommended to create a virtual environment
